@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 430" shape-rendering="crispEdges" role="img" aria-labelledby="t d">
+  <title id="t">Пиксельный кот смотрит на звёздное небо</title>
+  <desc id="d">Серый кот сидит на подоконнике и смотрит на большую персиковую луну и разноцветные звёзды.</desc>
+  <rect width="560" height="430" rx="28" fill="#d9efff"/>
+  <path fill="#c9dcff" d="M0 300h560v130H0z"/>
+  <path fill="#e9d8ff" d="M0 344h560v86H0z"/>
+  <path fill="#fff2a8" d="M360 58h92v12h12v92h-12v12h-92v-12h-12V70h12z"/>
+  <path fill="#ffd4ae" d="M384 82h56v12h12v44h-12v12h-56v-12h-12V94h12z"/>
+  <path fill="#fff" d="M95 74h12v12h12v12h-12v12H95V98H83V86h12zM492 212h10v10h10v10h-10v10h-10v-10h-10v-10h10zM242 106h9v9h9v9h-9v9h-9v-9h-9v-9h9z"/>
+  <path fill="#ff97c4" d="M197 63h8v8h8v8h-8v8h-8v-8h-8v-8h8zM486 90h8v8h8v8h-8v8h-8v-8h-8v-8h8z"/>
+  <path fill="#84d7c2" d="M146 174h9v9h9v9h-9v9h-9v-9h-9v-9h9zM424 228h8v8h8v8h-8v8h-8v-8h-8v-8h8z"/>
+  <path fill="#f4c86f" d="M304 48h8v8h8v8h-8v8h-8v-8h-8v-8h8zM71 225h8v8h8v8h-8v8h-8v-8h-8v-8h8z"/>
+  <path fill="#fff" d="M0 266h560v16H0z" opacity=".55"/>
+  <path fill="#725c79" d="M79 325h402v26H79zM59 351h442v22H59zM35 373h490v57H35z"/>
+  <path fill="#9d7891" d="M97 312h365v16H97zM76 336h408v15H76z"/>
+  <!-- Tail, curled around the cat's side -->
+  <path fill="#777187" d="M170 302h-20v16h-14v28h14v14h28v-14h14v-28h-14v-16z"/>
+  <path fill="#9b91a7" d="M148 326h-12v14h12v12h21v-12h12v-18h-15v12h-18z"/>
+  <path fill="#ffd0ab" d="M145 330h10v10h-10zM177 343h10v9h-10z"/>
+  <!-- A chubby little stargazer, seen from behind -->
+  <path fill="#625a72" d="M220 202h24v-20h22v-20h38v20h24v20h18v34h16v68h-16v25h-20v16h-99v-16h-22v-25h-16v-68h15v-34z"/>
+  <path fill="#91889a" d="M235 224h24v-18h30v-17h26v18h18v22h16v57h-15v22h-22v16h-71v-16h-20v-22h-14v-57h14v-15z"/>
+  <path fill="#b5aeb7" d="M263 219h12v12h-12zM311 219h12v12h-12zM276 246h13v8h-13z"/>
+  <path fill="#625a72" d="M277 238h8v8h-8zM297 238h8v8h-8z"/>
+  <path fill="#fff4ce" d="M283 238h3v3h-3zM303 238h3v3h-3z"/>
+  <path fill="#f39dbd" d="M283 254h10v6h-10z"/>
+  <path fill="#d3b0bf" d="M252 286h65v12h-65zM261 304h46v10h-46z"/>
+  <path fill="#625a72" d="M243 334h26v24h-26zM309 334h27v24h-27z"/>
+  <path fill="#ffd0ab" d="M244 350h25v8h-25zM310 350h26v8h-26z"/>
+  <!-- Moonbeam pixels drift toward the cat -->
+  <path fill="#fff7d6" d="M330 196h8v8h-8zM347 210h8v8h-8zM321 224h8v8h-8zM369 190h8v8h-8z" opacity=".9"/>
+  <path fill="#f3a6ca" d="M211 130h7v7h-7zM387 184h7v7h-7zM185 211h7v7h-7z"/>
+</svg>

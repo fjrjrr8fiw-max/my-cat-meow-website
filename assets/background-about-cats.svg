@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" shape-rendering="crispEdges">
+<!-- pale rose wallpaper with full, sitting pixel cats -->
+<g fill="#fff4df" opacity=".92">
+ <path d="M38 27h10V15h12v12h12v13h8v32h-8v11H48V72h-8V40zM270 175h10v-13h12v13h12v13h8v32h-8v11h-32v-11h-8v-32z"/>
+ <path d="M112 164h8v-10h10v10h10v9h6v23h-6v8h-28v-8h-7v-23h7z"/>
+</g>
+<g fill="#d9a9a5"><path d="M46 43h7v8h-7zm20 0h7v8h-7zm-13 13h18v5H53zM279 192h7v8h-7zm20 0h7v8h-7zm-13 13h18v5h-18zM119 179h6v6h-6zm14 0h6v6h-6zm-10 11h14v4h-14z"/></g>
+<g fill="#fff4df"><path d="M51 83h7v13h-7zm19 0h7v13h-7zm-14 8h16v7H56zM287 231h7v13h-7zm19 0h7v13h-7zm-14 8h16v7h-16zM114 204h6v12h-6zm17 0h6v12h-6zm-11 8h14v6h-14z"/></g>
+<g fill="#e9b8a9"><path d="M135 42h7v8h7v7h-7v8h-7v-8h-7v-7h7zM222 76h6v7h7v6h-7v7h-6v-7h-7v-6h7zM49 162h6v7h7v6h-7v7h-6v-7h-7v-6h7zM230 254h6v7h7v6h-7v7h-6v-7h-7v-6h7z"/></g>
+<g fill="#cfaaa2"><path d="M173 25h6v6h6v5h-6v6h-6v-6h-6v-5h6zM336 115h6v6h6v5h-6v6h-6v-6h-6v-5h6zM26 250h6v6h6v5h-6v6h-6v-6h-6v-5h6z"/></g>
+</svg>

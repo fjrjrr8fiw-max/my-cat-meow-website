@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice" shape-rendering="crispEdges">
+<rect width="1440" height="900" fill="#18383b"/><path fill="#1d4140" d="M0 0h1440v190H0z"/><path fill="#244b41" d="M0 690h1440v210H0z"/>
+<!-- layered canopy made from small stepped clusters -->
+<g fill="#315843"><path d="M0 115h90V70h45v45h75v40h50v115h-70v45H0zM260 34h65V0h45v34h65v42h45v112H260zM580 135h75V88h55v47h72v42h52v112H580zM900 45h80V0h52v45h75v45h55v110H900zM1190 160h70v-48h55v48h76v38h49v112h-250z"/></g>
+<g fill="#3e674b"><path d="M0 370h80v-50h55v50h76v44h52v126H0zM210 560h72v-44h54v44h72v38h52v114H210zM520 345h72v-44h57v44h70v40h50v118H520zM780 520h68v-44h54v44h70v40h50v124H780zM1060 360h72v-46h56v46h74v40h55v124h-257zM1240 585h74v-46h54v46h72v40h44v100h-244z"/></g>
+<!-- trunks and a broad branch -->
+<g fill="#493c35"><path d="M103 0h30v442h-30zM334 0h26v390h-26zM1074 0h34v450h-34zM1306 0h28v390h-28z"/><path d="M130 438l300-150 20 32-301 156zM1037 371l200-126 22 31-203 132z"/></g>
+<path fill="#916445" d="M122 441l302-154 9 14-304 158zM1040 375l198-127 9 14-198 131z"/>
+<!-- pixel leaves and tiny fireflies -->
+<g fill="#71945b"><path d="M55 198h19v18H55zm54-43h20v18h-20zm79 56h18v18h-18zM300 100h20v18h-20zm75 69h18v18h-18zM620 202h20v18h-20zm85-46h18v18h-18zM939 116h20v18h-20zm78 92h18v18h-18zM1230 222h20v18h-20zm116-48h20v18h-20zM92 485h18v18H92zm240 99h20v18h-20zm291-152h18v18h-18zm253 148h20v18h-20zm302-125h20v18h-20z"/></g>
+<g fill="#eacb86"><path d="M223 328h6v8h8v6h-8v8h-6v-8h-8v-6h8zM754 259h6v8h8v6h-8v8h-6v-8h-8v-6h8zM1185 319h6v8h8v6h-8v8h-6v-8h-8v-6h8zM460 672h5v6h6v5h-6v6h-5v-6h-6v-5h6zM971 704h5v6h6v5h-6v6h-5v-6h-6v-5h6z"/></g>
+<!-- cats watching the fireflies from the forest path -->
+<g shape-rendering="crispEdges"><path fill="#d6ab83" d="M475 500h18v-22h20v17h23v11h17v35h-17v12h-48v-12h-13zM481 557h17v32h-17zm44 0h18v32h-18z"/><path fill="#594442" d="M486 511h8v9h-8zm30 0h8v9h-8zm-20 14h22v5h-22z"/><path fill="#f2e5cd" d="M866 594h18v-22h20v17h23v11h17v35h-17v12h-48v-12h-13zM872 651h17v32h-17zm44 0h18v32h-18z"/><path fill="#53433e" d="M877 605h8v9h-8zm30 0h8v9h-8zm-20 14h22v5h-22z"/><path fill="#d891a7" d="M490 532h8v7h-8zm30 0h8v7h-8zm391 104h8v7h-8zm30 0h8v7h-8z"/></g>
+<path fill="#315843" d="M0 802h1440v98H0z"/><path fill="#52754d" d="M0 795h1440v9H0z"/>
+</svg>

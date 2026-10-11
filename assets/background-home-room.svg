@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice" shape-rendering="crispEdges">
+<rect width="1440" height="900" fill="#d69a5c"/><rect y="0" width="1440" height="610" fill="#dfaa6e"/>
+<path fill="#c78049" d="M0 0h500v610H0zM960 0h480v610H960z"/><path fill="#efc88f" d="M480 0h500v610H480z"/>
+<path fill="#ffe2a6" d="M60 86h278v230H60z"/><path fill="#8bc4b6" d="M81 108h236v185H81z"/><path fill="#c0e0c9" d="M81 108h236v92H81z"/><path fill="#f4c971" d="M81 202h236v91H81z"/><path fill="#fff0cc" d="M193 108h13v185h-13zM81 194h236v13H81z"/>
+<path fill="#96ad72" d="M93 270h38v-44h18v44h28v23H93zM252 292v-61h18v61zM276 255h27v38h-27z"/>
+<path fill="#a95f37" d="M0 395h445v26H0zM960 365h480v30H960zM0 575h1440v35H0z"/><path fill="#efbf7c" d="M0 421h445v15H0zM960 395h480v16H960zM0 610h1440v26H0z"/>
+<path fill="#74463a" d="M0 735h1440v165H0z"/><path fill="#bc7545" d="M0 636h1440v99H0z"/><path fill="#d79253" d="M0 641h1440v16H0zM0 688h1440v13H0zM0 731h1440v10H0z"/><path fill="#9a5938" d="M112 638v97h12v-97zm374 0v97h12v-97zm382 0v97h12v-97zm386 0v97h12v-97z"/>
+<path fill="#9c5d3e" d="M423 316h322v23H423zM455 339h281v114H455z"/><path fill="#714738" d="M470 359h70v77h-70zm94 0h68v77h-68zm92 0h65v77h-65z"/><path fill="#f2c178" d="M480 369h51v8h-51zm94 0h50v8h-50zm92 0h47v8h-47z"/>
+<path fill="#8a5038" d="M218 490h463v20H218zM742 519h360v22H742z"/><path fill="#d78f50" d="M218 510h463v17H218zM742 541h360v16H742z"/>
+<path fill="#c77c49" d="M1180 140h135v215h-135z"/><path fill="#e5ba78" d="M1200 160h96v160h-96z"/><path fill="#7b9869" d="M1302 354h26v-74h20v74h27v20h-73zM1146 373v-55h18v55z"/>
+<g fill="#eee0c5"><path d="M206 453h27v-37h25v24h24v13h18v49h-18v14h-60v-14h-16z"/><path d="M904 352h22v-34h23v22h23v12h18v43h-18v13h-54v-13h-14z"/><path d="M1254 570h24v-35h24v22h24v13h17v42h-17v13h-55v-13h-17z"/><path d="M622 600h20v-28h22v19h20v10h16v35h-16v11h-47v-11h-15z"/><path d="M76 578h19v-25h21v17h18v9h14v32h-14v10H90v-10H76z"/></g>
+<g fill="#593e3a"><path d="M215 471h13v15h-13zm37 0h13v15h-13zm-24 23h28v8h-28z"/><path d="M914 368h12v13h-12zm32 0h12v13h-12zm-21 21h23v7h-23z"/><path d="M1264 584h12v13h-12zm32 0h12v13h-12zm-21 21h23v7h-23z"/><path d="M632 612h11v12h-11zm28 0h11v12h-11zm-18 19h20v6h-20z"/><path d="M85 589h10v11H85zm26 0h10v11h-10zm-17 17h19v6H94z"/></g>
+<g fill="#d58a55"><path d="M216 515h20v18h-20zm38 0h20v18h-20zM910 406h18v17h-18zm34 0h18v17h-18zM1260 625h18v16h-18zm38 0h18v16h-18z"/></g>
+<g fill="#748c63"><path d="M1420 350h20v-72h20v72h26v24h-66zM1090 420v-57h18v57zM340 394v-64h18v64z"/><path d="M1383 318h-40v-20h40zm-102 19h-40v-20h40zM350 333h-38v-20h38z"/></g>
+<path fill="#f4ce83" d="M0 780h1440v9H0zm0 48h1440v8H0z"/>
+<!-- Extra pixel residents on the shelves: the scene should read as a cat hotel, not a tiled wallpaper. -->
+<g transform="translate(37 346) scale(.78)"><path fill="#c77745" d="M4 13h5V6h7v6h7V6h7v7h5v16h-5v7H10v-4H4zM31 27h8v-6h6v9h-8v5h-6z"/><path fill="#ffe6c3" d="M11 17h5v5h-5zm12 0h5v5h-5z"/><path fill="#493b36" d="M12 18h3v4h-3zm13 0h3v4h-3zm-9 7h9v3h-9z"/><path fill="#efb763" d="M8 35h7v4H8zm18 0h7v4h-7z"/></g>
+<g transform="translate(367 272) scale(.65)"><path fill="#62615f" d="M4 13h5V6h7v6h7V6h7v7h5v16h-5v7H10v-4H4zM31 27h8v-6h6v9h-8v5h-6z"/><path fill="#f1e5d1" d="M11 17h5v5h-5zm12 0h5v5h-5z"/><path fill="#483b38" d="M12 18h3v4h-3zm13 0h3v4h-3zm-9 7h9v3h-9z"/><path fill="#fff3dc" d="M8 35h7v4H8zm18 0h7v4h-7z"/></g>
+<g transform="translate(735 393) scale(.9)"><path fill="#d8c2a0" d="M4 13h5V6h7v6h7V6h7v7h5v16h-5v7H10v-4H4zM31 27h8v-6h6v9h-8v5h-6z"/><path fill="#fff2db" d="M11 17h5v5h-5zm12 0h5v5h-5z"/><path fill="#534643" d="M12 18h3v4h-3zm13 0h3v4h-3zm-9 7h9v3h-9z"/><path fill="#e8a9a0" d="M8 35h7v4H8zm18 0h7v4h-7z"/></g>
+<g transform="translate(1014 308) scale(.7)"><path fill="#56474a" d="M4 13h5V6h7v6h7V6h7v7h5v16h-5v7H10v-4H4zM31 27h8v-6h6v9h-8v5h-6z"/><path fill="#f0e1cb" d="M11 17h5v5h-5zm12 0h5v5h-5z"/><path fill="#382f32" d="M12 18h3v4h-3zm13 0h3v4h-3zm-9 7h9v3h-9z"/><path fill="#d98e91" d="M8 35h7v4H8zm18 0h7v4h-7z"/></g>
+<g transform="translate(1292 431) scale(.58)"><path fill="#e5b46f" d="M4 13h5V6h7v6h7V6h7v7h5v16h-5v7H10v-4H4zM31 27h8v-6h6v9h-8v5h-6z"/><path fill="#fff0d4" d="M11 17h5v5h-5zm12 0h5v5h-5z"/><path fill="#493b36" d="M12 18h3v4h-3zm13 0h3v4h-3zm-9 7h9v3h-9z"/><path fill="#fff0d4" d="M8 35h7v4H8zm18 0h7v4h-7z"/></g>
+<g fill="#f2cc83" opacity=".8"><path d="M184 331h8v9h9v7h-9v9h-8v-9h-9v-7h9zM604 439h7v8h8v6h-8v8h-7v-8h-8v-6h8zM1176 268h7v8h8v6h-8v8h-7v-8h-8v-6h8z"/></g>
+</svg>
